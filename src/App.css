@@ -27,7 +27,6 @@ header {
     margin-top : 16px;
   }
 
-
   main {
     width : calc(100vw - 180px);
     position : absolute;
@@ -49,9 +48,7 @@ header {
   header h1 {
     margin-top : 16px;
   }
-
 }
-
 
 .center {
   position : absolute;
