@@ -13,7 +13,7 @@ function App(props) {
     <BrowserRouter>
       <Header />
       <Routes>
-        <Route path="/" exact Component={Home}/>
+        <Route path="/movie" exact Component={Home}/>
         <Route path="/intro" exact Component={Intro}/>
         <Route path="/sub01" exact Component={Sub01}/>
         <Route path="/*" exact Component={NotFound} />

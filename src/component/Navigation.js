@@ -12,7 +12,7 @@ function Navigation() {
       <input type="radio" id="nav_rad03" name="navi_mnu" />
       <input type="radio" id="nav_rad04" name="navi_mnu" />
       <ul>
-        <li><label for="nav_rad01"><Link to="/">Home</Link></label></li>
+        <li><label for="nav_rad01"><Link to="/movie">Home</Link></label></li>
         <li><label for="nav_rad02"><Link to="/about">INTRO</Link></label></li>
         <li><label for="nav_rad03"><Link to="/sub01">SUB01</Link></label></li>
         <li><label for="nav_rad04"><Link to="/sub02">SUB01</Link></label></li>
